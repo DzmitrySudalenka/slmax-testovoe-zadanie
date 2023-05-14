@@ -1,0 +1,18 @@
+{
+    "name": "admin/slmax-testovoe-zadanie",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dzmitry Sudalenka",
+            "email": "sudalenko@gmail.com"
+        }
+    ],
+    "require": {
+        "faapz/pdo": "^2.2",
+        "symfony/dotenv": "^6.2"
+    }
+}
